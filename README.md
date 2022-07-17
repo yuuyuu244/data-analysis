@@ -4,4 +4,4 @@
 
 ## Links
 
-1. [クラスタリング](01.clustering.md)
+1. [クラスタリング](./doc/01.clustering.md)
